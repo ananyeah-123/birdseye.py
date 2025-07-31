@@ -37,11 +37,11 @@ This repository provides an extended manual control interface for the [CARLA Sim
    ./CarlaUE4.sh    # or CarlaUE5.sh depending on your version
    ```
 
-2. Run the script:
+2. Copy paste birdseye.py in Carla-> PythonAPI-> examples and run the script:
 
    ```bash
    cd PythonAPI/examples
-   python3 multi_control_manualstyle.py
+   python3 birdseye.py
    ```
 
 ### 💡 Requirements
